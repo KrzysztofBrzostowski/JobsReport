@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\bin\Debug\net5.0\IRepositories.deps.json
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\bin\Debug\net5.0\IRepositories.dll
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\bin\Debug\net5.0\ref\IRepositories.dll
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\bin\Debug\net5.0\IRepositories.pdb
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\bin\Debug\net5.0\Models.dll
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\bin\Debug\net5.0\Models.pdb
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\obj\Debug\net5.0\IRepositories.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\obj\Debug\net5.0\IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\obj\Debug\net5.0\IRepositories.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\obj\Debug\net5.0\IRepositories.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\obj\Debug\net5.0\IRepositories.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\obj\Debug\net5.0\IRepositories.csproj.CopyComplete
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\obj\Debug\net5.0\IRepositories.dll
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\obj\Debug\net5.0\ref\IRepositories.dll
+C:\Users\PC\OneDrive\Desktop\Zad\JobsReport\IRepositories\obj\Debug\net5.0\IRepositories.pdb
